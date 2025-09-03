@@ -41,8 +41,8 @@ Actively seeking new opportunities to contribute to innovative projects. While I
 I'm always open to discussing new projects, collaboration opportunities, or simply talking about technology and development.
 
 **Contact me:**  
-📧 [Your Email]  
-💼 [Your LinkedIn]
+📧 [conradogomez556@gmail.com]  
+💼 [www.linkedin.com/in/conrado-gomez]
 
 ---
 
