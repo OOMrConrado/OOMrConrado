@@ -1,5 +1,5 @@
 # Hi there, I'm Conrado Gomez
-
+---
 ## Fullstack Developer | Turning Ideas into Code
 
 I'm a Software Development and Quality student from Argentina, currently working as a freelance fullstack developer. I believe in bringing imagination to life through code, transforming concepts into functional, beautiful applications.
