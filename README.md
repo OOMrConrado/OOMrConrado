@@ -22,12 +22,6 @@ As a freelance developer, I've built custom solutions for clients including:
 
 **Open Source Highlight:** Currently developing Jarvis - an AI assistant project showcasing advanced Python development.
 
-### Certifications
-
-- **Google UX/UI Design Certificate**
-- **Microsoft C# Fundamentals**
-- **Web Development Certificate** - Government of Buenos Aires
-
 ### Beyond Code
 
 When I'm not coding, you'll find me strategizing over a chess game or diving into a good book. These activities keep my problem-solving skills sharp and my creativity flowing.
