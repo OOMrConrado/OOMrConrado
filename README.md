@@ -12,7 +12,8 @@ Currently specializing in fullstack development with a strong backend focus usin
 **Frontend:** HTML, CSS, JavaScript, React, Next.js, Tailwind CSS  
 **Tools & Deployment:** Docker, Vercel, Netlify  
 **Academic Experience:** C, C#
----
+
+
 ### Professional Experience
 
 As a freelance developer, I've built custom solutions for clients including:
@@ -24,6 +25,7 @@ As a freelance developer, I've built custom solutions for clients including:
 ### Beyond Code
 
 When I'm not coding, you'll find me strategizing over a chess game or diving into a good book. These activities keep my problem-solving skills sharp and my creativity flowing.
+
 
 ### Current Focus
 
