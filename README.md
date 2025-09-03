@@ -20,7 +20,6 @@ As a freelance developer, I've built custom solutions for clients including:
 - Full-stack web applications with comprehensive management systems
 - Custom business solutions (client projects under NDA)
 
-**Open Source Highlight:** Currently developing Jarvis - an AI assistant project showcasing advanced Python development.
 
 ### Beyond Code
 
