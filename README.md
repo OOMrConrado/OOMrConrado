@@ -1,7 +1,7 @@
-## Hi there 👋
+## Hi there, I'm Conrado Gomez
 
-# 💫 About Me:
-Técnico profesional apasionado por el desarrollo y la calidad de software, con experiencia en la creación de soluciones tecnológicas personalizadas según las necesidades de cada cliente. Mi enfoque se centra en la mejora continua, la atención al detalle y la implementación de soluciones eficaces que generen valor real. Poseo habilidades en trabajo en equipo, comunicación efectiva, y negociación, las cuales me permiten generar un ambiente de colaboración para alcanzar objetivos comunes. Además, tengo un fuerte compromiso con la orientación al cliente, siempre buscando entender sus necesidades y ofrecer respuestas ágiles y eficaces
+# Fullstack Developer | Turning Ideas into Code
+I'm a Software Development and Quality student from Argentina, currently working as a freelance fullstack developer. I believe in bringing imagination to life through code, transforming concepts into functional, beautiful applications.
 
 
 ## 🌐 Socials:
