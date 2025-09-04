@@ -24,7 +24,7 @@ As a freelance developer, I've built custom solutions for clients including:
 
 ### Beyond Code
 
-When I'm not coding, you'll find me strategizing over a chess game or diving into a good book. These activities keep my problem-solving skills sharp and my creativity flowing.
+When I'm not coding, you'll find me strategizing over a chess game, diving into a good book, or customizing my Arch Linux setup. These activities keep my problem-solving skills sharp, my creativity flowing, and my system truly my own.
 
 
 ### Current Focus
