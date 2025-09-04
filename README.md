@@ -10,7 +10,7 @@ Currently specializing in fullstack development with a strong backend focus usin
 
 **Backend:** Python, Flask, MySQL, MongoDB, Firebase  
 **Frontend:** HTML, CSS, JavaScript, React, Next.js, Tailwind CSS  
-**Tools & Deployment:** Docker, Vercel, Netlify  
+**Tools & Deployment:** Docker, Vercel, Netlify, Git  
 **Academic Experience:** C, C#
 
 
