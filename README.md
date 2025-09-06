@@ -8,10 +8,14 @@ I'm a Software Development and Quality student from Argentina, currently working
 
 Currently specializing in fullstack development with a strong backend focus using Python. I enjoy the complete development cycle - from designing user interfaces to architecting robust backend systems.
 
-**Backend:** Python, Flask, MySQL, MongoDB, Firebase  
-**Frontend:** HTML, CSS, JavaScript, React, Next.js, Tailwind CSS  
-**Tools & Deployment:** Docker, Vercel, Netlify, Git  
-**Academic Experience:** C, C#
+**Backend:** Python, Flask  
+**Databases & Cloud Services:** MySQL, MongoDB, Firebase  
+**Frontend:** HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind CSS  
+**Tools & Deployment:** Docker, Git, Vercel, Netlify  
+**Project Management & Collaboration:** Jira  
+**Methodologies:** Scrum, Agile Practices  
+**Testing & Tools:** Postman, Pytest  
+**Academic Experience:** C, C# 
 
 
 ### Professional Experience
