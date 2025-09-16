@@ -1,4 +1,4 @@
-# Hi there, I'm Conrado Gomez
+# Hi there, I'm Conrado Gómez
 
 ## Fullstack Developer | Turning Ideas into Code
 
